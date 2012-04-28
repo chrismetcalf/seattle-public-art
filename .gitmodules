@@ -1,0 +1,3 @@
+[submodule "socrata-php"]
+	path = socrata-php
+	url = git://github.com/socrata/socrata-php.git
